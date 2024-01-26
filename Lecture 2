@@ -1,0 +1,30 @@
+Introduction
+Git is a distributed version control system that helps you track changes in your codebase. Whether you're working on a solo project or collaborating with a team, understanding Git commands is essential for effective version control.
+
+Installation
+Before using Git, ensure it is installed on your system. You can download it from the official Git website.
+
+Configuration
+Configure your Git environment with your name and email:
+
+bash
+
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+Basic Commands
+Initialize a Repository:
+
+bash
+git init
+Check Repository Status:
+
+bash
+git status
+Add Changes to Staging Area:
+
+bash
+git add <file>
+Commit Changes:
+
+bash
+git commit -m "Your commit message"
