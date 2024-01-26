@@ -1,0 +1,22 @@
+HTML (HyperText Markup Language) is the standard markup language used to create the structure of a web page. It uses a system of tags to define and describe the content on a web page. Here's an overview of HTML with some examples:
+
+Basic HTML Structure:
+html
+Copy code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First HTML Page</title>
+</head>
+<body>
+    <!-- Content goes here -->
+</body>
+</html>
+<!DOCTYPE html>: Declares the document type and version of HTML.
+<html>: The root element of an HTML page.
+<head>: Contains meta-information about the HTML document, such as character set and viewport settings.
+<meta>: Defines metadata, like character set and viewport configuration.
+<title>: Sets the title of the web page, displayed in the browser's title bar or tab.
+<body>: Contains the content of the HTML document.
